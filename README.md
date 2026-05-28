@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Irene
 
-<!--
-**irenemanteli/irenemanteli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Business Administration Student | Tech Enthusiast | Bridging the Gap Between Business & Technology**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a Business Administration student passionate about how technology drives business innovation, scales operations, and solves complex real-world problems. I sit at the intersection of business strategy and technical execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏛️ About Me
+- 🎓 Studying **Business Administration** at University of Macedonia
+- 🎯 Aiming for roles like: **Product Management / Project Management / Business Analysis / Tech Consulting / Operations**
+- 💡 I love translating complex business requirements into technical solutions (and vice versa!).
+- 🌱 Currently learning:  Python for Data Analysis, Agile/Scrum Methodologies, SQL
+
+---
+
+### 🛠️ My Toolbox & Skills
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Business & Strategy** | Market Research, Business Strategy, Project Management, Agile/Scrum |
+| **Data & Tech** | Python (Basics), SQL, Excel (Advanced), Tableau / Power BI |
+| **Tools & Platforms** | Jira, Confluence, Trello, Git/GitHub |
+
+---
+
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ΤΟ_GITHUB_USERNAME_ΣΟΥ]&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ΤΟ_GITHUB_USERNAME_ΣΟΥ]&layout=compact&theme=radial)
+
+---
+
+### 🤝 Connect with Me
+- 💼 LinkedIn: www.linkedin.com/in/irene-manteli
+- 📧 Email: irene.mantel@gmail.com
