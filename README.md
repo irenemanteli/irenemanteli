@@ -22,13 +22,6 @@ Welcome to my GitHub profile! I am a Business Administration student passionate 
 | **Data & Tech** | Python (Basics), SQL, Excel (Advanced), Tableau / Power BI |
 | **Tools & Platforms** | Jira, Confluence, Trello, Git/GitHub |
 
----
-
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ΤΟ_GITHUB_USERNAME_ΣΟΥ]&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ΤΟ_GITHUB_USERNAME_ΣΟΥ]&layout=compact&theme=radial)
 
 ---
 
